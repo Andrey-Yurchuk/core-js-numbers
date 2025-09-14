@@ -130,3 +130,7 @@ dist
 .pnp.*
 /src/_numbers-tasks.js
 /package-lock.json
+
+# IDE
+.idea/
+.vscode/
